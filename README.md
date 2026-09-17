@@ -42,6 +42,17 @@ Pipeline reproducible para construir y auditar datasets arqueológicos de visió
 artificial: calidad de imagen, duplicados, embeddings DINOv2, FAISS, outliers y
 revisión humana.
 
+## Laboratorios y ecosistema
+
+Repositorios de estudio y adaptación técnica que complementan los proyectos
+propios. Se identifican por separado porque parten de trabajos existentes.
+
+| Repositorio | Enfoque |
+|---|---|
+| [RAG + llama.cpp Starter](https://github.com/david2526IA/rag-llama-cpp-starter) | Arquitectura RAG local y despliegue dockerizado |
+| [Dask 500 GB](https://github.com/david2526IA/demo_dask_500gb-) | Procesamiento distribuido desde un portátil y salida a S3 |
+| [OpenArm](https://github.com/david2526IA/openarm) | Hardware abierto y physical AI para manipulación robótica |
+
 ## Áreas de trabajo
 
 | Área | Qué construyo |
