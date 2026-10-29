@@ -8,14 +8,20 @@
   <img src="https://img.shields.io/badge/Enfoque-Local--first-0F766E?style=for-the-badge&logo=shield&logoColor=white" alt="Local-first">
 </p>
 
-## Sobre mí
+## Hola, soy David 👋
 
-Construyo sistemas de **inteligencia artificial aplicada y robótica social** que
-conectan modelos locales, voz, recuperación de conocimiento y hardware real.
+Desarrollo sistemas de **inteligencia artificial aplicada y robótica social**:
+modelos locales, voz, recuperación de conocimiento, visión artificial y
+hardware real.
 
 Mi trabajo se centra en convertir prototipos en productos utilizables:
 instalación automática, procesamiento privado, trazabilidad de datos,
 diagnóstico y una experiencia sencilla para quien utiliza el sistema.
+
+- 🤖 Construyo experiencias para robots como **Reachy Mini** y brazos abiertos.
+- 🧠 Priorizo IA privada: modelos locales, evidencia verificable y datos bajo control.
+- 🔭 Exploro aprendizaje por refuerzo, teleoperación, simulación y *sim-to-real*.
+- 🌍 Comparto modelos y demos en [Hugging Face](https://huggingface.co/BravoRobots).
 
 ```text
 IA local  ·  Reachy Mini  ·  RAG  ·  Voz  ·  Computer Vision  ·  Data Engineering
@@ -42,7 +48,12 @@ Pipeline reproducible para construir y auditar datasets arqueológicos de visió
 artificial: calidad de imagen, duplicados, embeddings DINOv2, FAISS, outliers y
 revisión humana.
 
-## Laboratorios y ecosistema
+### 🦾 [OpenArm · Isaac Lab · RL Teleoperation](https://github.com/david2526IA/openarm-isaac-rl-teleop)
+
+Entorno de experimentación para OpenArm que une aprendizaje por refuerzo,
+telemetría visual, NVIDIA Isaac Lab y teleoperación en realidad virtual.
+
+## Exploración y ecosistema
 
 Repositorios de estudio y adaptación técnica que complementan los proyectos
 propios. Se identifican por separado porque parten de trabajos existentes.
@@ -52,6 +63,14 @@ propios. Se identifican por separado porque parten de trabajos existentes.
 | [RAG + llama.cpp Starter](https://github.com/david2526IA/rag-llama-cpp-starter) | Arquitectura RAG local y despliegue dockerizado |
 | [Dask 500 GB](https://github.com/david2526IA/demo_dask_500gb-) | Procesamiento distribuido desde un portátil y salida a S3 |
 | [OpenArm](https://github.com/david2526IA/openarm) | Hardware abierto y physical AI para manipulación robótica |
+
+## Conecta conmigo
+
+<p>
+  <a href="https://github.com/david2526IA"><img src="https://img.shields.io/badge/GitHub-david2526IA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://huggingface.co/BravoRobots"><img src="https://img.shields.io/badge/Hugging%20Face-BravoRobots-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face"></a>
+  <a href="https://github.com/Bravo-Robots"><img src="https://img.shields.io/badge/Bravo%20Robots-Organización-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Bravo Robots"></a>
+</p>
 
 ## Áreas de trabajo
 
