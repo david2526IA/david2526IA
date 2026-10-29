@@ -1,113 +1,50 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="David — Applied AI & Robotics" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">Applied AI & Social Robotics Developer from Spain</h3>
 
 <p align="center">
-  <a href="https://github.com/Bravo-Robots"><img src="https://img.shields.io/badge/Bravo%20Robots-Organización-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Bravo Robots"></a>
-  <a href="https://huggingface.co/BravoRobots"><img src="https://img.shields.io/badge/Hugging%20Face-BravoRobots-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face"></a>
-  <img src="https://img.shields.io/badge/Enfoque-Local--first-0F766E?style=for-the-badge&logo=shield&logoColor=white" alt="Local-first">
+  <a href="https://github.com/david2526IA"><img src="https://komarev.com/ghpvc/?username=david2526IA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></a>
+  <a href="https://github.com/Bravo-Robots"><img src="https://img.shields.io/badge/Bravo%20Robots-Organization-181717?style=flat&logo=github" alt="Bravo Robots"></a>
+  <a href="https://huggingface.co/BravoRobots"><img src="https://img.shields.io/badge/Hugging%20Face-BravoRobots-FFD21E?style=flat&logo=huggingface&logoColor=111827" alt="Hugging Face"></a>
 </p>
 
-## Hola, soy David 👋
+- 🤖 I build **applied AI and social-robotics systems** that combine local models, voice, RAG, computer vision and real hardware.
+- 🔭 I’m currently working on **Reachy Mini** experiences, local voice assistants and open-robotics workflows.
+- 🌱 I’m learning more about **reinforcement learning, teleoperation, NVIDIA Isaac Lab and sim-to-real**.
+- 🧠 I favour **local-first AI**: private processing, verifiable sources and systems that work without depending on a cloud API.
+- 🏗️ I turn prototypes into usable products: automatic setup, diagnostics, reproducible data pipelines and simple interfaces.
+- 💬 Ask me about **local LLMs, RAG, voice AI, computer vision, robotics and data engineering**.
+- 🚀 I share models and demos on [Hugging Face](https://huggingface.co/BravoRobots).
 
-Desarrollo sistemas de **inteligencia artificial aplicada y robótica social**:
-modelos locales, voz, recuperación de conocimiento, visión artificial y
-hardware real.
-
-Mi trabajo se centra en convertir prototipos en productos utilizables:
-instalación automática, procesamiento privado, trazabilidad de datos,
-diagnóstico y una experiencia sencilla para quien utiliza el sistema.
-
-- 🤖 Construyo experiencias para robots como **Reachy Mini** y brazos abiertos.
-- 🧠 Priorizo IA privada: modelos locales, evidencia verificable y datos bajo control.
-- 🔭 Exploro aprendizaje por refuerzo, teleoperación, simulación y *sim-to-real*.
-- 🌍 Comparto modelos y demos en [Hugging Face](https://huggingface.co/BravoRobots).
-
-```text
-IA local  ·  Reachy Mini  ·  RAG  ·  Voz  ·  Computer Vision  ·  Data Engineering
-```
-
-## Proyectos destacados
-
-### ⚖️ [LexIA](https://huggingface.co/spaces/BravoRobots/lexia)
-
-Asistente jurídico por voz para Reachy Mini. Combina documentación oficial,
-recuperación trazable, Qwen local, Faster-Whisper, Piper y expresión robótica.
-Se instala desde el catálogo de aplicaciones y prepara automáticamente modelos,
-base de conocimiento e índices.
-
-### 🍽️ [School Menu Assistant](https://github.com/david2526IA/school-menu-assistant)
-
-Asistente de comedor escolar para Reachy Mini. Permite consultar, corregir y
-aprobar menús hablando, con reglas deterministas para precios, alérgenos y
-cumplimiento del pliego.
-
-### 🏺 [ArchaeoSort Dataset Builder](https://github.com/david2526IA/archaeosort-dataset-builder)
-
-Pipeline reproducible para construir y auditar datasets arqueológicos de visión
-artificial: calidad de imagen, duplicados, embeddings DINOv2, FAISS, outliers y
-revisión humana.
-
-### 🦾 [OpenArm · Isaac Lab · RL Teleoperation](https://github.com/david2526IA/openarm-isaac-rl-teleop)
-
-Entorno de experimentación para OpenArm que une aprendizaje por refuerzo,
-telemetría visual, NVIDIA Isaac Lab y teleoperación en realidad virtual.
-
-## Exploración y ecosistema
-
-Repositorios de estudio y adaptación técnica que complementan los proyectos
-propios. Se identifican por separado porque parten de trabajos existentes.
-
-| Repositorio | Enfoque |
-|---|---|
-| [RAG + llama.cpp Starter](https://github.com/david2526IA/rag-llama-cpp-starter) | Arquitectura RAG local y despliegue dockerizado |
-| [Dask 500 GB](https://github.com/david2526IA/demo_dask_500gb-) | Procesamiento distribuido desde un portátil y salida a S3 |
-| [OpenArm](https://github.com/david2526IA/openarm) | Hardware abierto y physical AI para manipulación robótica |
-
-## Conecta conmigo
-
-<p>
-  <a href="https://github.com/david2526IA"><img src="https://img.shields.io/badge/GitHub-david2526IA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://huggingface.co/BravoRobots"><img src="https://img.shields.io/badge/Hugging%20Face-BravoRobots-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face"></a>
-  <a href="https://github.com/Bravo-Robots"><img src="https://img.shields.io/badge/Bravo%20Robots-Organización-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Bravo Robots"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/david2526IA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-david2526IA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://huggingface.co/BravoRobots" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hugging%20Face-BravoRobots-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face"></a>
+  <a href="https://github.com/Bravo-Robots" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bravo%20Robots-Organization-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Bravo Robots"></a>
 </p>
 
-## Áreas de trabajo
-
-| Área | Qué construyo |
-|---|---|
-| Robótica social | Experiencias de voz, gestos y estados para Reachy Mini |
-| Modelos locales | Qwen, llama.cpp, cuantización y ejecución sin APIs externas |
-| Sistemas RAG | Recuperación híbrida, SQL, evidencia y trazabilidad de fuentes |
-| Voz | VAD, Faster-Whisper, Piper, streaming e interrupciones naturales |
-| Visión artificial | DINOv2, FAISS, validación y auditoría de datasets |
-| Data engineering | Procesamiento distribuido, Spark, Dask, Kafka y almacenamiento S3 |
-| Producto | Bootstrap automático, caché, diagnósticos, dashboards y despliegue |
-
-## Tecnologías
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/SQLite-Datos-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Docker-Contenedores-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Apache%20Spark-Datos-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-  <img src="https://img.shields.io/badge/AWS-S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42"></a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="42" height="42"></a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42"></a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"></a>
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42"></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="42"></a>
 </p>
 
-## Principios
+<h3 align="left">Featured projects:</h3>
 
-- **Privacidad por diseño:** procesar localmente siempre que el caso lo permita.
-- **Evidencia antes que elocuencia:** una respuesta debe poder justificar su origen.
-- **Automatización real:** instalar y arrancar sin pedir al usuario que configure Python.
-- **Hardware con propósito:** los movimientos y la voz forman parte de la interfaz.
-- **Medir antes de optimizar:** precisión, latencia y errores por etapa.
-
----
+| Project | What it does |
+| --- | --- |
+| ⚖️ [LexIA](https://huggingface.co/spaces/BravoRobots/lexia) | A local, traceable legal voice assistant for Reachy Mini. |
+| 🍽️ [School Menu Assistant](https://github.com/david2526IA/school-menu-assistant) | Voice-based school-menu management with verifiable rules for allergens and pricing. |
+| 🏺 [ArchaeoSort Dataset Builder](https://github.com/david2526IA/archaeosort-dataset-builder) | Reproducible computer-vision dataset QA pipeline using DINOv2 and FAISS. |
+| 🦾 [OpenArm · Isaac Lab · RL](https://github.com/david2526IA/openarm-isaac-rl-teleop) | Reinforcement learning, visual telemetry and VR teleoperation for an open robot arm. |
 
 <p align="center">
-  <strong>Construyendo IA que sale de la pantalla y funciona en el mundo real.</strong>
+  <i>Building AI that leaves the screen and works in the real world.</i>
 </p>
