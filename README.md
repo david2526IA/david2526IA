@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/portfolio-map.svg" alt="Mapa de especialidades: IA aplicada, datos, robótica y sistemas locales" width="100%">
+  <img src="assets/hero-robotics.png" alt="Portada editorial de robótica e inteligencia artificial" width="100%">
 </p>
 
-<h1 align="center">David Falcon · IA aplicada, datos y robótica</h1>
+<h1 align="center">David · IA aplicada, datos y robótica</h1>
 
 <p align="center">
   Desarrollo sistemas prácticos y explicables: desde telemetría industrial y visión artificial hasta herramientas locales de IA, datos y privacidad.
