@@ -5,8 +5,8 @@
 <h1 align="center">David</h1>
 
 <p align="center">
-  <b>IA aplicada · Robótica · Datos · Sistemas locales</b><br>
-  Construyo herramientas reproducibles para conectar datos, automatización e inteligencia artificial con problemas reales.
+  <b>Investigación y desarrollo · IA aplicada · Robótica · Datos</b><br>
+  Desarrollo sistemas reproducibles que conectan deep learning, visión artificial, automatización y datos con problemas reales.
 </p>
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 ## Perfil
 
-Trabajo en la intersección entre IA aplicada, automatización y datos. Me interesan los sistemas que se pueden inspeccionar, probar y explicar: telemetría industrial, RAG local, visión artificial, simulación robótica y pipelines de datos.
+Trabajo en investigación y desarrollo en la intersección entre IA aplicada, robótica, automatización y datos. Me interesan especialmente los sistemas que se pueden inspeccionar, probar y explicar: deep learning, visión artificial, RAG local, telemetría industrial, simulación robótica y pipelines de datos.
 
-- Diseño software con límites claros entre análisis, recomendación y control.
-- Priorizo privacidad, trazabilidad y ejecuciones reproducibles.
-- Convierto prototipos en proyectos demostrables: documentación, tests y CI incluidos.
+- 🧠 **IA aplicada:** deep learning, recuperación documental, modelos locales y evaluación RAG.
+- 👁️ **Visión artificial:** inspección visual, calidad de datasets y resultados explicables.
+- 🦾 **Robótica e industria:** sensores, actuadores, simulación, telemetría y soporte al diseño de célula.
+- 🔬 **I+D reproducible:** privacidad, trazabilidad, documentación, tests y CI desde el prototipo.
 
 ## Tecnologías
 
@@ -36,16 +37,33 @@ Trabajo en la intersección entre IA aplicada, automatización y datos. Me inter
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"></a>
   <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"></a>
   <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"></a>
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"></a>
+  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="42" height="42" alt="Ubuntu"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"></a>
+  <a href="https://ros.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="42" height="42" alt="ROS"></a>
 </p>
 
-**IA y datos:** RAG · evaluación de recuperación · visión artificial · DuckDB · Parquet · calidad de datos · MLOps · Hugging Face  
-**Automatización y robótica:** sensores · actuadores · HMI/SCADA · TIA Portal · Ladder · FUP · ROS 2 · simulación · CAD (AutoCAD / Fusion)
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning con PyTorch">
+  <img src="https://img.shields.io/badge/IA%20local-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Datos-DuckDB-FDDC00?style=flat-square&logo=duckdb&logoColor=111827" alt="DuckDB">
+  <img src="https://img.shields.io/badge/Industrial-TIA%20Portal-009999?style=flat-square" alt="TIA Portal">
+  <img src="https://img.shields.io/badge/L%C3%B3gica-Ladder%20%2F%20FUP-2563EB?style=flat-square" alt="Ladder y FUP">
+  <img src="https://img.shields.io/badge/Operaci%C3%B3n-HMI%20%2F%20SCADA-7C3AED?style=flat-square" alt="HMI y SCADA">
+  <img src="https://img.shields.io/badge/CAD-AutoCAD%20%2F%20Fusion-E34F26?style=flat-square" alt="AutoCAD y Fusion">
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-ROS%202%20%2F%20LeRobot-0F766E?style=flat-square" alt="ROS 2 y LeRobot">
+  <img src="https://img.shields.io/badge/Simulaci%C3%B3n-Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Lab">
+</p>
+
+**Lenguajes y desarrollo:** Python · Bash · SQL · Markdown · Git · Docker · GitHub Actions  
+**IA y datos:** deep learning · visión artificial · RAG · evaluación de recuperación · DuckDB · Parquet · calidad de datos · MLOps · Hugging Face  
+**Automatización y robótica:** sensores · actuadores · HMI/SCADA · TIA Portal · Ladder · FUP · ROS 2 · LeRobot · Isaac Lab · CAD (AutoCAD / Fusion) · CADe SIMU
 
 ## Áreas de trabajo
 
-| IA local y visión | Datos y MLOps | Robótica y automatización |
+| IA aplicada y visión | Datos y MLOps | Robótica e industria |
 | --- | --- | --- |
-| Recuperación documental con fuentes, evaluación RAG, privacidad y revisión de prompts. | Lakehouse, contratos de datos, calidad, drift y observabilidad. | Telemetría, trayectorias, layouts de célula, sensores y simulación. |
+| Deep learning, recuperación documental con fuentes, evaluación RAG, privacidad y visión explicable. | Lakehouse, contratos de datos, calidad, drift, observabilidad y despliegues locales. | Telemetría, trayectorias, layouts de célula, sensores, HMI/SCADA y simulación. |
 
 ## Proyectos seleccionados
 
