@@ -34,6 +34,8 @@
 | 📈 [RAG Eval Lite](https://github.com/david2526IA/rag-eval-lite) | Métricas reproducibles para evaluar recuperación en sistemas RAG. |
 | 🌡️ [Sensor Calibration Kit](https://github.com/david2526IA/sensor-calibration-kit) | Análisis de calibración lineal y residuos para sensores. |
 
+Consulta el [catálogo de proyectos en español](PROYECTOS.md) para ver todas las piezas, su propósito y cómo se conectan.
+
 ## Criterio de ingeniería
 
 - Cada proyecto incluye documentación, pruebas automatizadas y CI.
